@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DesktopPet.Core.Tests/DesktopPet.Core.Tests.csproj" Id="b4ef00aa-a322-4a88-82fc-238a52519830" />
+  <Project Path="DesktopPet.Core/DesktopPet.Core.csproj" Id="9a545910-f55f-4ad7-8b18-28879e5a9cb9" />
+  <Project Path="DesktopPet\DesktopPet.csproj" />
+</Solution>

@@ -1,0 +1,34 @@
+# ---- Visual Studio ----
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ---- 构建产物 ----
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+publish/
+
+# ---- 测试 ----
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+
+# ---- 其他 IDE ----
+.idea/
+*.swp
+*~
+
+# ---- 操作系统 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- 临时 ----
+*.log
+*.tmp

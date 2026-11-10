@@ -1,0 +1,13 @@
+<Project>
+
+  <!-- 全解决方案共享的编译设置，新增项目自动继承，不用每个 csproj 重复写 -->
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Product>DesktopPet</Product>
+    <Version>0.1.0</Version>
+    <Company>DesktopPet</Company>
+  </PropertyGroup>
+
+</Project>
